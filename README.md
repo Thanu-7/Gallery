@@ -172,6 +172,10 @@ div.desc {
 
 ![imagegal1](https://github.com/user-attachments/assets/b58c4364-990a-442c-9877-a5a3e14993e3)
 
+![gal1](https://github.com/user-attachments/assets/1642f795-a4fa-44e1-b531-ed16f5900510)
+
+![gal2](https://github.com/user-attachments/assets/f0da6f58-6b4b-4bc7-b881-bf93c20a3056)
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
